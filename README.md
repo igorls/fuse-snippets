@@ -5,7 +5,7 @@ Fusetools snippets for Sublime Text 3
 
 Type the snippet shortcode and then press <kbd>Tab</kbd> to complete the snippet.
 
-## Availabel Tags
+## Available Tags
 
 * fjs_[FuseJS Package Name]
 
