@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var ${1:FileSystem} = require('FuseJS/FileSystem');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fjs_filesystem</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
